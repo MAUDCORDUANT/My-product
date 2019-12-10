@@ -1,0 +1,108 @@
+.banner {
+	background-image: url(https://wallpaperaccess.com/full/419101.jpg);
+    background-size: cover;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+    height: 600px;
+    background-image: center;
+  
+
+}
+
+.banner-content {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	text-align: center;
+	align-items: center;
+	font-family: Solway, serif;
+	color: white;
+	font-size: 30px;
+
+	
+
+}
+.container2 {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: row;
+	flex-wrap: wrap;
+		
+
+
+}
+.card1 {
+	 background-color: white;
+	 border-color:#0f4c81 ;
+	 color: grey;
+     font-family: Solway, serif;
+     border-style: solid;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     width: 200px;
+     height: 200px;
+     font-size: 20px;
+
+}
+.card2 {
+     background-color: white;
+	 border-color:#0f4c81 ;
+	 color: grey;
+     font-family: Solway, serif;
+     border-style: solid;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     width: 200px;
+     height: 200px;
+     font-size: 20px;
+}
+.card3 {
+	 background-color: white;
+	 border-color:#0f4c81 ;
+	 color: grey;
+     font-family: Solway, serif;
+     border-style: solid;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     width: 200px;
+     height: 200px;
+     font-size: 20px;
+}
+.button {
+
+	align-items: center;
+	font:bold 2px Solway;
+	font-size: 18px;
+ width:150px;
+ line-height:50px;
+ text-align:center;
+ justify-content: center;
+ vertical-align:middle;
+ background-color: #bbcdf2;
+ color:white;
+ text-decoration:none;
+}
+.footer{
+	align-items: center;
+	background-color: white;
+	height: 200px;
+	font-size: 20px;
+	font-family: Solway; 
+	text-align: center;
+
+}
+hr { 
+	color: #bbcdf2;
+	border-style: dotted;
+	border-color: #bbcdf2;
+
+
+ }
